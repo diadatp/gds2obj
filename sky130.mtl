@@ -1,0 +1,67 @@
+newmtl subs
+Ka 0.25 0.25 0.25
+Kd 0.25 0.25 0.25
+
+newmtl nwell
+Ka 0.25 0.95 0.25
+Kd 0.25 0.95 0.25
+
+newmtl ndiff
+Ka 0.25 0.10 0.80
+Kd 0.25 0.10 0.80
+
+newmtl pdiff
+Ka 0.80 0.10 0.25
+Kd 0.80 0.10 0.25
+
+newmtl poly
+Ka 0.91 0.12 0.05
+Kd 0.91 0.12 0.05
+
+newmtl licon
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+
+newmtl li
+Ka 0.9 0.6 0.6
+Kd 0.9 0.6 0.6
+
+newmtl mcon
+Ka 0.9 0.75 0.0
+Kd 0.9 0.75 0.0
+
+newmtl metal1
+Ka 0.0 0.0 1.0
+Kd 0.0 0.0 1.0
+
+newmtl via
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+
+newmtl m2
+Ka 0.0 0.0 1.0
+Kd 0.0 0.0 1.0
+
+newmtl via2
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+
+newmtl m3
+Ka 0.0 0.0 1.0
+Kd 0.0 0.0 1.0
+
+newmtl via3
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+
+newmtl metal4
+Ka 0.0 0.0 1.0
+Kd 0.0 0.0 1.0
+
+newmtl via4
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+
+newmtl metal5
+Ka 0.0 0.0 1.0
+Kd 0.0 0.0 1.0
